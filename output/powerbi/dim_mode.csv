@@ -1,0 +1,16 @@
+ModeKey,Main mode,mode_group
+1,Car/ van (as a passenger),Car / van
+2,Car/ van (as the driver),Car / van
+3,Electric cycle (e-bike),Active / wheeling
+4,Ferry,Public transport
+5,Hire e-bike/ e-scooter,Micromobility
+6,Mobility scooter,Active / wheeling
+7,Motorcycle/ moped,Motorcycle / moped
+8,Other coach (e.g. long distance coaches),Public transport
+9,Pedal cycle,Active / wheeling
+10,"Private bus/ coach (e.g. school service, other private service)",Private bus / coach
+11,Public bus service,Public transport
+12,Rail,Public transport
+13,Something else,Other / unspecified
+14,Taxi/ minicab,Taxi / private hire
+15,Walking,Active / wheeling
