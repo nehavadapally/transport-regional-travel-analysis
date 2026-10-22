@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyses a sample of Transport for the South East (TfSE) Regional Travel Survey trip records for a Senior Data Analyst assessment.
+This project analyses a sample of Transport for the South East (TfSE) Regional Travel Survey trip records.
 
 The analysis is structured to separate:
 
@@ -365,4 +365,4 @@ The final presentation/report should use only the visuals required to support th
 
 **Neha Vadapally**  
 MSc Data Analytics  
-Senior Data Analyst assessment — Transport for the South East
+Transport for the South East
